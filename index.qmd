@@ -1,0 +1,22 @@
+---
+title: "Rhian Davies"
+image: img/rhian-davies.jpg
+favicon: img/favicon.ico
+about:
+  template: jolla
+  links:
+  - icon: github
+    text: GitHub
+    href: https://github.com/statsrhian    
+  - icon: twitter
+    text: Twitter
+    href: https://twitter.com/statsrhian
+  - icon: strava
+    text: Strava
+    href: https://www.strava.com/athletes/5412155  
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/statsrhian
+---
+
+I am Technical Lead of Data Science at [Jumping Rivers](https://www.jumpingrivers.com). I’m an active communicator and a statistical ambassador for the Royal Statistical Society. I’m an #RStats geek and co-organise the Lancaster chapter of R-Ladies. When I’m not at a laptop, you’ll find me outdoors. I love cycling, sea kayaking, fell running and climbing.
