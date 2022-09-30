@@ -1,8 +1,8 @@
 ---
-title: Data Detective
-description: Stories showcasing the pitfalls that we as humans often struggle with when it comes to randomness.
+title: "Data Detective"
+description: "Stories showcasing the pitfalls that we as humans often struggle with when it comes to randomness."
 date: "2019-01-10"
-subtitle: Florence Nightingale Day 2019
+subtitle: "Florence Nightingale Day 2019"
 image: featured.jpg
 categories: [outreach]
 img-alt: "Three cartoon heads sharing the same thought bubble."
