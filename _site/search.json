@@ -4,6 +4,216 @@
     "href": "index.html",
     "title": "Rhian Davies",
     "section": "",
-    "text": "I am Technical Lead of Data Science at Jumping Rivers. I’m an active communicator and a statistical ambassador for the Royal Statistical Society. I’m an #RStats geek and co-organise the Lancaster chapter of R-Ladies. When I’m not at a laptop, you’ll find me outdoors. I love cycling, sea kayaking, fell running and climbing."
+    "text": "I’m a data science leader, statistical consultant and R expert, based in the U.K.\nI’m passionate about using statistics to help people make data driven decisions.\nI’m currently Technical Lead of Data Science at Jumping Rivers.\nI’m an active communicator and a statistical ambassador for the Royal Statistical Society, helping journalists and the members of the public understand statistical concepts.\nWhen I’m not at a laptop, you’ll find me outdoors. I love cycling, sea kayaking, fell running and climbing."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "RSS International Conference 2022\n\n\n\n\nconference\n\n\nworkshop\n\n\n\n\nAdvice and guidance on communicating complex statistical ideas and concepts in plain language.\n\n\n\n\n\n\nSep 14, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nRSS International Conference 2022\n\n\n\n\nconference\n\n\n\n\nWhat is an API? And why would I make one?\n\n\n\n\n\n\nSep 13, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nPyLadies Munich, PyLadies Tunis & R-Ladies Cologne\n\n\n\n\nmeetup\n\n\n\n\nThe challenges and opportunities of working within a bilingual team.\n\n\n\n\n\n\nJul 27, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nUseR! 2021\n\n\n\n\nconference\n\n\n\n\nUsing R to create a bespoke learning environment automatically.\n\n\n\n\n\n\nJul 8, 2021\n\n\n\n\n\n\n  \n\n\n\n\n\nNHS R Conference 2020\n\n\n\n\nconference\n\n\nworkshop\n\n\n\n\nA two hour workshop presented at the NHS R Conference.\n\n\n\n\n\n\nNov 3, 2020\n\n\n\n\n\n\n  \n\n\n\n\n\nRSS Merseyside\n\n\n\n\nmeetup\n\n\n\n\nInvestigating Florence Nightingale’s Polar Area Diagram and discussing how she used them to argue a case for better hospital management.\n\n\n\n\n\n\nJul 1, 2020\n\n\n\n\n\n\n  \n\n\n\n\n\nSatRday Cardiff 2019\n\n\n\n\nmeetup\n\n\n\n\nI’ll explain what continuous integration is and tell stories of how we use it at Jumping Rivers.\n\n\n\n\n\n\nNov 16, 2019\n\n\n\n\n\n\n  \n\n\n\n\n\nuseR! 2019 Workshop\n\n\n\n\nconference\n\n\nworkshop\n\n\n\n\nWorkshop on Git & Continous Integration\n\n\n\n\n\n\nJul 9, 2019\n\n\n\n\n\n\n  \n\n\n\n\n\nR-Ladies Lancaster\n\n\n\n\nmeetup\n\n\n\n\nA whirlwind tour of a day in my life as an analyst and all the weird and wonderful ways R helps.\n\n\n\n\n\n\nMay 1, 2019\n\n\n\n\n\n\n  \n\n\n\n\n\nFlorence Nightingale Day 2019\n\n\n\n\noutreach\n\n\n\n\nStories showcasing the pitfalls that we as humans often struggle with when it comes to randomness.\n\n\n\n\n\n\nJan 10, 2019\n\n\n\n\n\n\n  \n\n\n\n\n\nIMechE North West Railway Division\n\n\n\n\nmeetup\n\n\n\n\nA case study demonstrating the development within Digital Rail to improve the passenger experience at the Platform Train Interface (PTI).\n\n\n\n\n\n\nOct 23, 2018\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Dec 1, 2021\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/levelup/index.html",
+    "href": "projects/levelup/index.html",
+    "title": "Level Up",
+    "section": "",
+    "text": "GitHub\nI’d like to update this to a quarto report."
+  },
+  {
+    "objectID": "talks/2021-07-08-automating-online-training/index.html",
+    "href": "talks/2021-07-08-automating-online-training/index.html",
+    "title": "Automating Bespoke Online Teaching",
+    "section": "",
+    "text": "At Jumping Rivers we deliver over 100 R, Python and Stan training courses each year, engaging with thousands of new learners. The necessity to move to fully online training in March last year meant we quickly had to completely rethink how to deliver R training interactively online. We internally trialled running our usual in-person training just on Zoom - and it really doesn’t work trust us! We already used R & R Markdown to create all training materials including slides and notes. However, our new workflow uses R in every step of the way, from creating a bespoke learning environment, to collating feedback and generating certificates. This improves the learning experience as the small things are automated and allows the trainer to concentrate on actual training."
+  },
+  {
+    "objectID": "talks/2021-07-08-automating-online-training/index.html#abstract",
+    "href": "talks/2021-07-08-automating-online-training/index.html#abstract",
+    "title": "Automating Bespoke Online Teaching",
+    "section": "Abstract",
+    "text": "Abstract\nAt Jumping Rivers we deliver over 100 R, Python and Stan training courses each year, engaging with thousands of new learners. The necessity to move to fully online training in March last year meant we quickly had to completely rethink how to deliver R training interactively online. We internally trialled running our usual in-person training just on Zoom - and it really doesn’t work trust us! We already used R & R Markdown to create all training materials including slides and notes. However, our new workflow uses R in every step of the way, from creating a bespoke learning environment, to collating feedback and generating certificates. This improves the learning experience as the small things are automated and allows the trainer to concentrate on actual training."
+  },
+  {
+    "objectID": "talks/2021-07-08-automating-online-training/index.html#links",
+    "href": "talks/2021-07-08-automating-online-training/index.html#links",
+    "title": "Automating Bespoke Online Teaching",
+    "section": "Links",
+    "text": "Links\n\nSlides\nuseR! 2021, Virtual"
+  },
+  {
+    "objectID": "talks/2021-07-08-automating-online-training/index.html#recording",
+    "href": "talks/2021-07-08-automating-online-training/index.html#recording",
+    "title": "Automating Bespoke Online Teaching",
+    "section": "Recording",
+    "text": "Recording"
+  },
+  {
+    "objectID": "talks/2022-09-13-plumber/index.html",
+    "href": "talks/2022-09-13-plumber/index.html",
+    "title": "Share your Models with R {plumber} APIs",
+    "section": "",
+    "text": "So you’ve developed a statistical model, and now you want to share it with the world. You’ve heard that APIs make it easy to scale the reach of your work. But what is an API? How do you make one? And how difficult is it to do?\nAt some point, you may want to share your statistical models with other people. If they are not R users, they may not be able to use your work without translating it into their language of choice. However, if your model is available in the form of an API, then anybody can import your results without this difficult translation step.\nMaking your models available through an API reduces the handoff between R and other tools or technologies. More people can access your results and use them to make data-driven decisions.\nThe {plumber} package makes it easy to convert your R functions into API endpoints using just a few special comments.\nIn this talk I’ll introduce what an API is, how the {plumber} package works and give an example of sharing a statistical model to a wider audience.\n\n\n\nImage from Duke Lemur Center"
+  },
+  {
+    "objectID": "talks/2022-09-13-plumber/index.html#links",
+    "href": "talks/2022-09-13-plumber/index.html#links",
+    "title": "Share your Models with R {plumber} APIs",
+    "section": "Links",
+    "text": "Links\n\nSlides\nRSS International Conference 2022, Aberdeen"
+  },
+  {
+    "objectID": "talks/2022-09-14-communicating-stats/index.html",
+    "href": "talks/2022-09-14-communicating-stats/index.html",
+    "title": "Don’t Panic! The Ambassadors guide to communicating statistics",
+    "section": "",
+    "text": "The RSS Statistical Ambassadors have been selected and trained by the Society to engage in statistical discussions with the media, schools and wider public.\nThis group session will actively engage the audience through a number of exercises to stretch attendees’ communication skills. The Ambassadors will provide advice and guidance to encourage attendees to communicate complex statistical ideas and concepts in plain language, and to consider alternative ways to communicate their own research.\nThe session aims to help statisticians prepare to give insightful comments, whether written, via social media, on radio, or in television interviews."
+  },
+  {
+    "objectID": "talks/2022-07-27-tale-of-two-languages/index.html",
+    "href": "talks/2022-07-27-tale-of-two-languages/index.html",
+    "title": "A Tale of Two Languages",
+    "section": "",
+    "text": "In this talk, Rhian will share stories of how Jumping Rivers develop in both R and Python - often in the same project. Rhian will share how they write all of their Python training materials in R Markdown, and how they built the Diffify tool to analyse R packages in both Python and R. Rhian will also talk a little about the challenges and opportunities they have working within a bilingual team at Jumping Rivers."
+  },
+  {
+    "objectID": "talks/2022-07-27-tale-of-two-languages/index.html#links",
+    "href": "talks/2022-07-27-tale-of-two-languages/index.html#links",
+    "title": "A Tale of Two Languages",
+    "section": "Links",
+    "text": "Links\n\nRecording\nSlides\nPyLadies + R-Ladies — Bringing the communities together"
+  },
+  {
+    "objectID": "talks/2020-11-03-graphics-with-ggplot/index.html",
+    "href": "talks/2020-11-03-graphics-with-ggplot/index.html",
+    "title": "Introduction to {ggplot2}",
+    "section": "",
+    "text": "One reason to learn R is that it can be used to produce publication quality graphics. In this tutorial we’ll introduce you to the fantastic ggplot2 package and help you create many different types of plots. We’ll explain “geoms” and “aesthetics” and give you a flavour of the different ways you can adapt the look of your plots. This workshop will be very hands-on and no previous knowledge of {ggplot2} is necessary."
+  },
+  {
+    "objectID": "talks/2020-11-03-graphics-with-ggplot/index.html#recording",
+    "href": "talks/2020-11-03-graphics-with-ggplot/index.html#recording",
+    "title": "Introduction to {ggplot2}",
+    "section": "Recording",
+    "text": "Recording"
+  },
+  {
+    "objectID": "talks/2020-11-03-graphics-with-ggplot/index.html#links",
+    "href": "talks/2020-11-03-graphics-with-ggplot/index.html#links",
+    "title": "Introduction to {ggplot2}",
+    "section": "Links",
+    "text": "Links\n\nSlides\nNHS R Conference 2020"
+  },
+  {
+    "objectID": "talks/2020-07-01-data-viz-for-better/index.html",
+    "href": "talks/2020-07-01-data-viz-for-better/index.html",
+    "title": "Data Viz for Better",
+    "section": "",
+    "text": "It is sometimes said that Florence Nightingale was the first person to present data in a visual form. This is not true, however, she may have been the first person to use data visualisation to persuade people of the need for change. In this talk, I will show Florence’s original diagrams and discuss how she used them to argue a case for better hospital management. I’ll also showcase the Florences of the future, highlighting women who are using data visualisation to bring change in today’s world."
+  },
+  {
+    "objectID": "talks/2020-07-01-data-viz-for-better/index.html#recording",
+    "href": "talks/2020-07-01-data-viz-for-better/index.html#recording",
+    "title": "Data Viz for Better",
+    "section": "Recording",
+    "text": "Recording"
+  },
+  {
+    "objectID": "talks/2020-07-01-data-viz-for-better/index.html#links",
+    "href": "talks/2020-07-01-data-viz-for-better/index.html#links",
+    "title": "Data Viz for Better",
+    "section": "Links",
+    "text": "Links\n\nSlides\nRSS Merseyside"
+  },
+  {
+    "objectID": "talks/2019-11-16-trust-your-pkg/index.html",
+    "href": "talks/2019-11-16-trust-your-pkg/index.html",
+    "title": "Can you trust your R package?",
+    "section": "",
+    "text": "Are you forgetful and lazy like me, but still want to make fabulous, dependable R packages? Enter Travis, a helpful service which can automatically run checks, tests and even tweet about your package. I’ll explain what continuous integration is and tell stories of how we use it at Jumping Rivers. I’ll also introduce inteRgrate, an R package we’ve developed to help us keep our packages running smoothly."
+  },
+  {
+    "objectID": "talks/2019-11-16-trust-your-pkg/index.html#links",
+    "href": "talks/2019-11-16-trust-your-pkg/index.html#links",
+    "title": "Can you trust your R package?",
+    "section": "Links",
+    "text": "Links\n\nSlides\nSatRday Cardiff"
+  },
+  {
+    "objectID": "talks/2019-11-16-trust-your-pkg/index.html#section",
+    "href": "talks/2019-11-16-trust-your-pkg/index.html#section",
+    "title": "Can you trust your R package?",
+    "section": "",
+    "text": "Links\n\nSlides\nSatRday Cardiff"
+  },
+  {
+    "objectID": "talks/2019-07-09-getting-the-most-with-git/index.html",
+    "href": "talks/2019-07-09-getting-the-most-with-git/index.html",
+    "title": "Getting the most out of Git",
+    "section": "",
+    "text": "Do you wonder what a pull request is? Do you browse GitHub and see lots of repositories with fancy looking badges, and think, I would like some of them? And what is a git-hook and why should you care? In this tutorial, we’ll look at how we can leverage external tools, such as travis, covr, and Docker hub."
+  },
+  {
+    "objectID": "talks/2019-07-09-getting-the-most-with-git/index.html#links",
+    "href": "talks/2019-07-09-getting-the-most-with-git/index.html#links",
+    "title": "Getting the most out of Git",
+    "section": "Links",
+    "text": "Links\n\nSlides\nUseR! 2019"
+  },
+  {
+    "objectID": "talks/2022-09-14-communicating-stats/index.html#links",
+    "href": "talks/2022-09-14-communicating-stats/index.html#links",
+    "title": "Don’t Panic! The Ambassadors guide to communicating statistics",
+    "section": "Links",
+    "text": "Links\n\nSlides\nRSS International Conference 2022, Aberdeen"
+  },
+  {
+    "objectID": "talks/2019-05-01-day-in-the-life/index.html",
+    "href": "talks/2019-05-01-day-in-the-life/index.html",
+    "title": "A day in the life with R",
+    "section": "",
+    "text": "I’ve been using R for many years and at the moment it feels like I basically run my life in the medium of R. I’ll give an whirlwind tour of a day in my life as an analyst and all the weird and wonderful ways R helps - and hinders."
+  },
+  {
+    "objectID": "talks/2019-05-01-day-in-the-life/index.html#links",
+    "href": "talks/2019-05-01-day-in-the-life/index.html#links",
+    "title": "A day in the life with R",
+    "section": "Links",
+    "text": "Links\n\nR-Ladies Lancaster\nSlides"
+  },
+  {
+    "objectID": "talks/2018-10-23-faster-safer-better/index.html",
+    "href": "talks/2018-10-23-faster-safer-better/index.html",
+    "title": "Faster, Safer, Better",
+    "section": "",
+    "text": "A case study demonstrating the development within Digital Rail to improve the passenger experience at the Platform Train Interface (PTI). An invited talk to the local group of the IMechE Railway division."
+  },
+  {
+    "objectID": "talks/2018-10-23-faster-safer-better/index.html#links",
+    "href": "talks/2018-10-23-faster-safer-better/index.html#links",
+    "title": "Faster, Safer, Better",
+    "section": "Links",
+    "text": "Links\n\nSlides\nIMechE North West Railway Division"
+  },
+  {
+    "objectID": "talks/2019-01-10-data-detective/index.html",
+    "href": "talks/2019-01-10-data-detective/index.html",
+    "title": "Data Detective",
+    "section": "",
+    "text": "Humans are notoriously bad at dealing with randomness and probabilities - we ignore the obvious and see patterns in the ordinary. As a statistician, it’s Rhian’s job to decide whether differences in data are due to chance or a real underlying cause. Rhian will tell stories of real projects she has worked on from predicting your personality to analysing your deodorant and discuss the pitfalls that we as humans often struggle with when it comes to randomness."
+  },
+  {
+    "objectID": "talks/2019-01-10-data-detective/index.html#links",
+    "href": "talks/2019-01-10-data-detective/index.html#links",
+    "title": "Data Detective",
+    "section": "Links",
+    "text": "Links\n\nSlides\nFlorence Nightingale Day 2019"
   }
 ]
