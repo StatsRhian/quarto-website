@@ -21,7 +21,11 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/levelup/index.html"
+      "/projects/hill-climbs/index.html",
+      "/projects/levelup/index.html",
+      "/projects/recipes/index.html",
+      "/projects/paddle-blog/index.html",
+      "/projects/these-are-my-rivers/index.html"
     ]
   }
 ]

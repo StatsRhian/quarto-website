@@ -165,7 +165,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Dec 1, 2021\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Mapping the top Lancashire cycle hill climbs in leaflet.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn R package for managing CPD data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreating a personal recipe book to learn the {bookdown} package.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDocumenting and mapping my paddles.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaking poster art of the local rivers.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "talks/2014-03-01-ri-master-class/index.html",
@@ -173,5 +173,61 @@
     "title": "RI Mathematics Masterclass on Group Theory",
     "section": "",
     "text": "Materials\nRoyal Institution Mathematics Masterclass"
+  },
+  {
+    "objectID": "talks/2014-02-01-tv-maths/index.html",
+    "href": "talks/2014-02-01-tv-maths/index.html",
+    "title": "Maths on T.V.",
+    "section": "",
+    "text": "Materials"
+  },
+  {
+    "objectID": "talks/2019-11-16-trust-your-pkg/index.html",
+    "href": "talks/2019-11-16-trust-your-pkg/index.html",
+    "title": "Can you trust your R package?",
+    "section": "",
+    "text": "Are you forgetful and lazy like me, but still want to make fabulous, dependable R packages? Enter Travis, a helpful service which can automatically run checks, tests and even tweet about your package. I’ll explain what continuous integration is and tell stories of how we use it at Jumping Rivers. I’ll also introduce inteRgrate, an R package we’ve developed to help us keep our packages running smoothly."
+  },
+  {
+    "objectID": "talks/2019-11-16-trust-your-pkg/index.html#links",
+    "href": "talks/2019-11-16-trust-your-pkg/index.html#links",
+    "title": "Can you trust your R package?",
+    "section": "Links",
+    "text": "Links\n\nSlides\nSatRday Cardiff"
+  },
+  {
+    "objectID": "projects/levelup/index.html",
+    "href": "projects/levelup/index.html",
+    "title": "Level Up",
+    "section": "",
+    "text": "GitHub\nI’d like to update this to a quarto report."
+  },
+  {
+    "objectID": "projects/paddle-blog/index.html",
+    "href": "projects/paddle-blog/index.html",
+    "title": "Rhi on the Sea",
+    "section": "",
+    "text": "As I work towards my sea kayaking leadership award, I’ll need to track and reflect on my paddling. I’m doing this via a {distill} website because I have an addiction to building static sites in #RStats."
+  },
+  {
+    "objectID": "projects/recipes/index.html",
+    "href": "projects/recipes/index.html",
+    "title": "Recipes",
+    "section": "",
+    "text": "I don’t particularly enjoy cooking. But I do enjoy making irrelevant websites. When I do cook, I like having a tried and tested recipe to follow. I decided to use {bookdown} to put all of my standard recipes into a nice, searchable, version controlled, online book."
+  },
+  {
+    "objectID": "projects/these-are-my-rivers/index.html",
+    "href": "projects/these-are-my-rivers/index.html",
+    "title": "These are my rivers",
+    "section": "",
+    "text": "I’d like to make some art for my home, filling in the local rivers that I paddle. I’m still not sure exactly what I’d like the finished poster to look like."
+  },
+  {
+    "objectID": "projects/hill-climbs/index.html",
+    "href": "projects/hill-climbs/index.html",
+    "title": "Hill climbs",
+    "section": "",
+    "text": "When I first started playing with the {leaflet}, I mapped the local hill climbs."
   }
 ]
