@@ -11,9 +11,6 @@ about:
   - icon: twitter
     text: Twitter
     href: https://twitter.com/statsrhian
-  - icon: filetype-pdf
-    text: C.V.
-    href: https://raw.githubusercontent.com/statsrhian/CV/main/cv.pdf 
   - icon: strava
     text: Strava
     href: https://www.strava.com/athletes/5412155  

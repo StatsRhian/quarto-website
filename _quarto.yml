@@ -12,6 +12,8 @@ website:
         file: index.qmd
       - talks.qmd
       - projects.qmd
+      - text: C.V.
+        href: https://statsrhian.github.io/CV/cv.pdf
 
 format:
   html:
